@@ -1,7 +1,7 @@
 {
   "name": "kata",
   "version": "1.0.0",
-  "description": "",
+  "description": "Una vez ya tenemos una idea de qué es el testing y cómo se hace, vamos a ponerlo en práctica con un ejercicio.",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
@@ -17,5 +17,8 @@
     "jsdom": "^24.0.0",
     "vite": "^5.2.6",
     "vitest": "^1.4.0"
+  },
+  "directories": {
+    "test": "tests"
   }
 }
